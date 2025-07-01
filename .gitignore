@@ -3,6 +3,10 @@
 /target
 *.iml
 **/.idea/
-**/.DS_Store
 **/out/
 *.*~
+.DS_Store
+.gitattributes
+mvnw
+mvnw.cmd
+.mvn/
